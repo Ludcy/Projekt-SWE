@@ -1,0 +1,45 @@
+Neues repository erstellen:
+- oben links auf Github auf "New"
+- repository erstellen
+- repository benennen
+- create repository
+
+Link kopieren:
+git remote add origin https://github.com/Ludcy/Projekt-SWE
+
+Kollegen hinzufügen:
+- oben rechts "Add collaborators to this repository"
+- invite collaborators
+- Add people 
+
+
+
+Dateien auf Github in Repository hochladen:
+1. "cmd" im Pfad des Ordners eingeben (indem man seine Sachen abspeichern möchte), damit sich die Kommandozeile öffnet und man direkt im 
+   richtigen Verzeichnis ist, indem man arbeiten möchte
+
+2. git add [Dateiname]			Bsp. git add Liste.txt
+
+3. git commit -m ["Kommentar"]		Bsp. git commit -m "geändert/hinzugefügt am 18.06.2024"
+
+4. git push
+
+
+Wie Kollegen sich das Repository "Klonen" von Github:
+1. git clone [Link]		Bsp. git clone https://github.com/Ludcy/Projekt-SWE
+
+
+Dateien als Klon in das Repository hochladen:
+
+2. git add [Dateiname]			Bsp. git add Liste.txt
+
+3. git commit -m ["Kommentar"]		Bsp. git commit -m "geändert/hinzugefügt am 18.06.2024"
+
+4. git push
+
+
+Dateien aus Repository-GitHub löschen:
+- git rm [Dateiname]
+- git commit -m ["Kommentar"]
+- git push
+
