@@ -1,13 +1,16 @@
 package Task;
 
+/**
+ * Hauptklasse zum Ausführen des TaskManagers.
+ */
 public class Main {
     public static void main(String[] args) {
         TaskManager manager = new TaskManager();    
-        manager.addTask("Learn Java");              //Task hinzufügen
-        manager.addTask("Write Code");              //Task hinzufügen
-        manager.showTasks();                                    //Tasks anzeigen
+        manager.addTask("Java lernen");
+        manager.addTask("Code schreiben");
+        manager.showTasks();
 
-        manager.markTaskAsCompleted(1);                      //Tasks mit ID 1 als erledigt makieren
-        manager.showTasks();                                    //Tasks erneut anzeigen
+        manager.markTaskAsCompleted(1);
+        manager.showTasks();
     }
 }
