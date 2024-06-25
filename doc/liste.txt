@@ -1,0 +1,11 @@
+Projektinitialisierung: Karina
+Erstellung der Aufgabenliste: Karina
+Installation der Entwicklungsumgebung: Moritz
+Einrichtung des Repositories: Karina
+Implementierung der Task-Klasse: Moritz
+Implementierung der TaskManager-Klasse: Moritz
+Methoden für das Hinzufügen von Aufgaben: Karina
+Methoden für das Anzeigen von Aufgaben: Moritz 
+Methoden zum Markieren von Aufgaben als erledigt: David 
+Dokumentation der Task-Klasse: David
+Dokumentation der TaskManager-Klasse: David

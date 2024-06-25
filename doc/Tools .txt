@@ -1,0 +1,6 @@
+Tools: 
+GitHub: Versionierung und Zusammenarbeit
+Eclipse/IntelliJ/Visualstudio: Entwicklungsumgebung
+Zoom/Teams: Online-Meetings
+Discord: Kommunikation
+Violet editor: Klassenstruktur 
